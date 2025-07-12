@@ -1,10 +1,11 @@
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './Pages/Home';
 import Contact from './Pages/Contact';
 import Join from './Pages/Join';
 import Members from './Pages/Members';
 import Events from './Pages/Events';
-import NotFoundPage from './Pages/NotFoundPage';
+import NotFound from './Pages/NotFound';
+import CssBaseline from '@mui/material/CssBaseline';
 
 function App() {
   return (
@@ -17,7 +18,7 @@ function App() {
           <Route path='/eventos' element={<Events />} />
           <Route path='/participe' element={<Join />} />
           <Route path='/contato' element={<Contact />} />
-          <Route path='*' element={<NotFoundPage />} />
+          <Route path='*' element={<NotFound />} />
       </Routes>
       </BrowserRouter>
     </CssBaseline>
