@@ -1,0 +1,68 @@
+{
+    "Ana Beatriz": {
+        "name": "Ana Beatriz",
+        "title": ", Líder Girl Up",
+        "description": "Tenho 19 anos e trabalho com equidade de gênero desde os meus 12 anos. Aos 15 entrei para a Girl Up, me tornando conselheira global e aos 16 fundei o Equalizaminas para trazer equidade para o Brasil.",
+        "img": ""
+    },
+    "Julia Riger": {
+        "name": "Julia Riger",
+        "title": ", Líder Girl Up",
+        "description": "Tenho 20 anos, sou estudante de Serviço Social na PUC-SP, e atuo como coordenadora do grupo. Inicialmente envolvida em divulgação e comunicação, agora foco na área administrativa.",
+        "img": ""
+    },
+        "Julia": {
+        "name": "Julia",
+        "title": ", Designer",
+        "description": "Sou apaixonada pelo poder das palavras e conexões humanas. Comunicar é uma forma de agir em prol das lutas sociais: dar voz a quem precisa, construir pontes e inspirar mudanças concretas no mundo.",
+        "img": ""
+    },
+        "Lizandra": {
+        "name": "Lizandra",
+        "title": ", Social Media",
+        "description": "Criar uma ONG que ensina empreendedorismo para crianças, ser programadora por um ano, dar aulas de inglês para pessoas pretas— são formas de expressar os valores que me movem todos os dias.",
+        "img": ""
+    },
+        "Alice Pagani": {
+        "name": "Alice Pagani",
+        "title": ", Coordenadora",
+        "description": "Tenho 18 anos e sou uma freshman na Minerva University. Gosto de lutar pelo empoderamento feminino e pelos direitos das crianças de todo o Brasil.",
+        "img": ""
+    },
+        "Isabely": {
+        "name": "Isabely",
+        "title": ", Comunicação",
+        "description": "Tenho 18 anos e faço parte do Equalizaminas desde 2024. Luto pelos direitos das mulheres e pela igualdade. Educação e cultura são os caminhos para a construção de um mundo mais igualitário.",
+        "img": ""
+    },
+        "Laura Ramos": {
+        "name": "Laura Ramos",
+        "title": ", Pesquisa",
+        "description": "Me chamo Laura, tenho 15 anos, nascida e criada em Salvador/BA. Como uma jovem ativista eu adoro temas relacionados a Ciência Políticas e pela luta dos direitos das mulheres.",
+        "img": ""
+    },
+        "Gabriela Saito": {
+        "name": "Gabriela Saito",
+        "title": ", Tecnologia",
+        "description": "Tenho 19 anos, estudo Ciências Atuariais na USP e sou apaixonada por criar soluções para causas sociais, especialmente ligadas à equidade de gênero e aos direitos das mulheres.",
+        "img": "assets/gabi.jpeg"
+    },
+        "Beatriz": {
+        "name": "Beatriz",
+        "title": ", Coordenadora",
+        "description": "Desde criança sempre fui muito organizada, e criativa! E tento usar essas habilidades para atuar em causas que apoio. Atuo na gestão interna do projeto, organizando e criando soluções!",
+        "img": "assets/beatriz.jpeg"
+    },
+        "Pietra": {
+        "name": "Pietra",
+        "title": ", ",
+        "description": "Tenho 17 anos, estou no último ano do ensino médio e sou apaixonada por olimpíadas científicas. Devido à sua importância para meu desenvolvimento pessoal, vi a enorme necessidade de lutar por uma maior equidade de gênero, tanto na ciência quanto em inúmeras outras causas sociais, por isso, entrei no Equalizaminas esse ano, para agir em prol de um mundo mais igualitário.",
+        "img": "assets/pietra.jpeg"
+    },
+        "": {
+        "name": "",
+        "title": ", ",
+        "description": "Tenho 17 anos e sou do interior de São Paulo. Sou apaixonada por ciências e acredito no potencial dos jovens como líderes. Luto pelos direitos das meninas e mulheres, especialmente na área de ciências e liderança feminina.",
+        "img": "assets/nan.jpeg"
+    }
+}
