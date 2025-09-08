@@ -9,7 +9,7 @@ export default function Title(props) {
       <TitleDecoration />
       {subtitle && <Subtitle>{subtitle}</Subtitle>}
       {button && (
-        <ButtonStyled href={buttonHref}>
+        <ButtonStyled onClick={() => window.open(buttonHref, "_blank")}>
           {button}
         </ButtonStyled>
       )}

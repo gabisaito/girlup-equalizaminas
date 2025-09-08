@@ -21,12 +21,14 @@ export const Subtitle = styled('p')({
   marginBottom: '30px',
 })
 
-export const ButtonStyled = styled('button')({
+export const ButtonStyled = styled('a')({
   backgroundColor:'#800080',
   fontFamily: 'Coolvetica, sans-serif',
   fontSize: '1.1rem',
   borderRadius: '10px',
   border: 'none',
   color: '#FFFFFF',
-  padding: '5px 20px',
+  padding: '10px 20px',
+  textDecoration: 'none',
+  cursor: 'pointer'
 })
