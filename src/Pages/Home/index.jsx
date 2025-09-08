@@ -4,7 +4,7 @@ import Footer from "../../Components/Footer";
 import Title from "../../Components/Title";
 
 import HomePhoto from './assets/home_photo.jpg'
-import Photo1 from './assets/brazil_flag.png'
+import Photo1 from './assets/brazil_flag.JPG'
 import Photo2 from './assets/girls_photo.png'
 
 import { ImagesContainer, StyledImage, ContentContainer } from "./styles";
@@ -13,7 +13,7 @@ export default function Home() {
     return (
     <>
         < Header />
-        < Landing backgroundImage={HomePhoto} text={"Quando meninas se erguem,todos se erguem"}/>
+        < Landing backgroundImage={HomePhoto} text={"Quando meninas se erguem, todos se erguem"}/>
         
         <ContentContainer>
           < Title 
