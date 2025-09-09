@@ -11,7 +11,7 @@ export default function Join() {
     return (
         <>
             < Header />
-            < Landing backgroundImage={landingPhoto} text={`“Senti que eu podia ser quem eu sou e não tem nada de errado com quem eu sou”`} />
+            < Landing backgroundImage={landingPhoto} text={`“Senti que eu podia ser quem eu sou e não tem nada de errado com quem eu sou”, Ana Catarina`} />
 
             <ContentContainer>
                 < Title
