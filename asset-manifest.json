@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/girlup-equalizaminas/static/js/main.fd713996.js",
+    "main.js": "/girlup-equalizaminas/static/js/main.a80d3740.js",
     "static/media/girls_photo.JPG": "/girlup-equalizaminas/static/media/girls_photo.0f496a5645fc780cea65.JPG",
     "static/media/girls_photo.png": "/girlup-equalizaminas/static/media/girls_photo.be05c863bc2b778649af.png",
     "static/media/home_photo.jpg": "/girlup-equalizaminas/static/media/home_photo.30544855da3fa5c90c93.jpg",
@@ -26,9 +26,9 @@
     "static/media/instagram.svg": "/girlup-equalizaminas/static/media/instagram.40b9ad73f101259a64a39ce90105dd5f.svg",
     "static/media/linkedin.svg": "/girlup-equalizaminas/static/media/linkedin.8c026a32b8b499818392eb945ec8a023.svg",
     "index.html": "/girlup-equalizaminas/index.html",
-    "main.fd713996.js.map": "/girlup-equalizaminas/static/js/main.fd713996.js.map"
+    "main.a80d3740.js.map": "/girlup-equalizaminas/static/js/main.a80d3740.js.map"
   },
   "entrypoints": [
-    "static/js/main.fd713996.js"
+    "static/js/main.a80d3740.js"
   ]
 }
