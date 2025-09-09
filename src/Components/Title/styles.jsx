@@ -20,6 +20,9 @@ export const Subtitle = styled('p')({
   fontWeight: 400,
   fontSize: '1rem',
   marginBottom: '30px',
+    '@media (max-width: 768px)': {
+      fontSize: '0.8rem',
+  },
 })
 
 export const ButtonStyled = styled('a')({
