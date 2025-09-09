@@ -15,8 +15,7 @@ export const ContentContainer = styled('div')(({ theme }) => ({
 }));
 
 export const NewsPreviewContainer = styled('div')(({ theme }) => ({
-  // ...
-  padding: '0 20px', // Adiciona o padding apenas onde necessário
+  padding: '0 20px',
   [theme.breakpoints.down('md')]: {
     padding: '0 10px',
   },
