@@ -2,10 +2,9 @@ import Landing from "../../Components/LandingPage";
 import Header from "../../Components/Header";
 import Footer from "../../Components/Footer";
 import Title from "../../Components/Title";
-import MembersProfile from "../../Components/MembersProfile";
 import landingPhoto from './assets/girls_photo.jpeg';
 
-import { ContentContainer, ProfilesWrapper } from "./styles";
+import { ContentContainer } from "./styles";
 
 export default function Contact() {
     return (
