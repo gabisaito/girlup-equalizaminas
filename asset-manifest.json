@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.js": "/girlup-equalizaminas/static/js/main.c3767d6c.js",
+    "static/media/girls_photo.JPG": "/girlup-equalizaminas/static/media/girls_photo.0f496a5645fc780cea65.JPG",
+    "static/media/girls_photo.png": "/girlup-equalizaminas/static/media/girls_photo.be05c863bc2b778649af.png",
+    "static/media/home_photo.jpg": "/girlup-equalizaminas/static/media/home_photo.30544855da3fa5c90c93.jpg",
+    "static/media/beatriz.jpeg": "/girlup-equalizaminas/static/media/beatriz.e6b60dfb80b5dedb9aed.jpeg",
+    "static/media/girls_photo.jpg": "/girlup-equalizaminas/static/media/girls_photo.e3e9fe2bf202c7b1ce7e.jpg",
+    "static/media/girls_photo.jpeg": "/girlup-equalizaminas/static/media/girls_photo.c47b799865f6e1a8f21d.jpeg",
+    "static/media/mulheres_politica.jpeg": "/girlup-equalizaminas/static/media/mulheres_politica.8c7ee51f2a58204739cc.jpeg",
+    "static/media/brazil_flag.JPG": "/girlup-equalizaminas/static/media/brazil_flag.801d2dd8f22af097a46c.JPG",
+    "static/media/ana.jpeg": "/girlup-equalizaminas/static/media/ana.ca5241447a1f6731cbc5.jpeg",
+    "static/media/julia.jpeg": "/girlup-equalizaminas/static/media/julia.3ad5800e29ad888d3f3f.jpeg",
+    "static/media/amazonia_em_pe.jpeg": "/girlup-equalizaminas/static/media/amazonia_em_pe.ad47b38efaf580f1c412.jpeg",
+    "static/media/alice.jpeg": "/girlup-equalizaminas/static/media/alice.e5a68cb65d8ac9205f39.jpeg",
+    "static/media/gabi.jpeg": "/girlup-equalizaminas/static/media/gabi.1f25e1caae5455aa0c22.jpeg",
+    "static/media/julia_riger.jpeg": "/girlup-equalizaminas/static/media/julia_riger.a2eaee7c6525c0140176.jpeg",
+    "static/media/pietra.jpeg": "/girlup-equalizaminas/static/media/pietra.559ae800ed47e5ddd6f8.jpeg",
+    "static/media/lizandra.jpeg": "/girlup-equalizaminas/static/media/lizandra.6ef5e0e8ed3f4bb6a7e8.jpeg",
+    "static/media/isabella.jpeg": "/girlup-equalizaminas/static/media/isabella.75c1cc7250d30e6e900c.jpeg",
+    "static/media/livre_menstruar.jpeg": "/girlup-equalizaminas/static/media/livre_menstruar.701b329a56380f464b31.jpeg",
+    "static/media/laura.jpeg": "/girlup-equalizaminas/static/media/laura.b3eb5e0d61fb66a349b0.jpeg",
+    "static/media/logo.png": "/girlup-equalizaminas/static/media/logo.238256bd90f1f68fbe68.png",
+    "static/media/isabely.jpeg": "/girlup-equalizaminas/static/media/isabely.42d5946c7572bcc4d976.jpeg",
+    "static/media/dia_da_mulher.jpeg": "/girlup-equalizaminas/static/media/dia_da_mulher.f313833327a7c0b3d74a.jpeg",
+    "static/media/instagram.svg": "/girlup-equalizaminas/static/media/instagram.40b9ad73f101259a64a39ce90105dd5f.svg",
+    "static/media/linkedin.svg": "/girlup-equalizaminas/static/media/linkedin.8c026a32b8b499818392eb945ec8a023.svg",
+    "index.html": "/girlup-equalizaminas/index.html",
+    "main.c3767d6c.js.map": "/girlup-equalizaminas/static/js/main.c3767d6c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c3767d6c.js"
+  ]
+}
