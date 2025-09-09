@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Home from './Pages/Home';
 import Contact from './Pages/Contact';
 import Join from './Pages/Join';
@@ -25,7 +25,7 @@ function App() {
         }}
       />
       <CssBaseline />
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/sobre-nos' element={<Members />} />
@@ -34,7 +34,7 @@ function App() {
           <Route path='/contato' element={<Contact />} />
           <Route path='*' element={<NotFound />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 }
