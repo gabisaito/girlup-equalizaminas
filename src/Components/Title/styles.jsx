@@ -16,7 +16,8 @@ export const TitleDecoration = styled('span')({
 })
 
 export const Subtitle = styled('p')({
-  fontFamily: 'Coolvetica, sans-serif',
+  fontFamily: 'Albert Sans, sans-serif',
+  fontWeight: 400,
   fontSize: '1rem',
   marginBottom: '30px',
 })
