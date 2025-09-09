@@ -30,5 +30,10 @@ export const ButtonStyled = styled('a')({
   color: '#FFFFFF',
   padding: '10px 20px',
   textDecoration: 'none',
-  cursor: 'pointer'
+  cursor: 'pointer',
+  transition: 'background-color 0.3s ease',
+
+  '&:hover': {
+    backgroundColor: '#FDB5D0',
+  },
 })
