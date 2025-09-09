@@ -11,14 +11,3 @@ export const ContentContainer = styled('div')(({ theme }) => ({
     marginBottom: '20px',
   },
 }));
-
-export const ProfilesWrapper = styled('div')(({ theme }) => ({
-  display: 'grid',
-  gridTemplateColumns: '1fr', 
-  gap: '40px', 
-  marginTop: '40px',
-
-  [theme.breakpoints.up('md')]: {
-    gridTemplateColumns: '1fr 1fr', 
-  },
-}));
