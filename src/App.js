@@ -6,6 +6,7 @@ import Members from './Pages/Members';
 import Events from './Pages/Events';
 import NotFound from './Pages/NotFound';
 import CssBaseline from '@mui/material/CssBaseline';
+import GAListener from './GAListener';
 import { GlobalStyles } from '@mui/material';
 
 function App() {
@@ -26,6 +27,7 @@ function App() {
       />
       <CssBaseline />
       <HashRouter>
+        <GAListener />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path='/sobre-nos' element={<Members />} />
